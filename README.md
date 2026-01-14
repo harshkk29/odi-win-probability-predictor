@@ -227,7 +227,7 @@ Sarah Poonattu - Data analysis, Study design
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:your.email@example.com)
+For questions or feedback, please open an issue or contact [your.email@example.com](mailto:harshvardhankhot12@gmail.com)
 
 ---
 
