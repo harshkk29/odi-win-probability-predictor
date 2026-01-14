@@ -211,7 +211,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**
 Suchir Dharmadhikari - Data collection, Variable refinement
 Aarushi Malani - Variable refinement, Statistical interpretation
 Harshvardhan Khot - Data processing, Modeling 
